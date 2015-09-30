@@ -9,6 +9,8 @@ The tweets were assumed to be present in a file in the same directory as the par
 
 The database connection parameters can be found in lines 115 - 117. The scrip also logs a number in a log file for each 1000 tweets it processes. This is good for debugging purposes. The log file (log.txt) details can be found in line 119.
 
+The database schema can be found in Twitter database.docx.
+
 
 
 
